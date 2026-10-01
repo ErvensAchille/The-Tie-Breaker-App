@@ -1,0 +1,6 @@
+{
+  "name": "The Tiebreaker",
+  "description": "Strategic decision-making assistant using 52 cognitive & strategic models to break ties, evaluate pros/cons, and reframe complex choices.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
